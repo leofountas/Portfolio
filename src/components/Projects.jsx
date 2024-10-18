@@ -7,7 +7,7 @@ import projImg3 from "../assets/images/jungle.png";
 export default function Projects() {
   const projects = [
     {
-      title: "Teem Hitter",
+      title: "Teemo Hitter",
       description:
         "Cookie Clicker inspired by the world of League of Legends made with JS, HTML, CSS, Bootstrap",
       imgUrl: projImg1,
